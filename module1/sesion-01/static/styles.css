@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya:900|Open+Sans|Slabo+27px&display=swap");
+
+body{
+    background-color: #fffbf7;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
+
+h1{
+    color: #025157;
+    font-family: "Alegreya", serif;
+    font-size: 60px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+h4{
+    color: #46484c;
+    font-family: "Slabo 27px", serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+p {
+    color: #8b8b8bcc;
+    font-family: verdana;
+    font-size: 20px;
+    margin-top: 15px;
+}
+input, button{
+    height: 100%;
+    border-radius: 8px;
+}
+input{
+    border: 1px solid #b6b6b6;
+    padding: 6px 20px;
+    width: 60%;
+    max-width: 250px;
+}
+button{
+    color: #fffbf7;
+    background-color: #025157;
+    border: none;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 6px 20px;
+    margin-left: -10px;
+}
+figure{
+    margin-top: 32px;
+}
+form {
+    height: 55px;
+    padding-left: 25%;
+}
+
+form.signup-form {
+    font-size: 14px;
+  }
+
+  form.signup-form input {
+    width: 60%;
+  }
+
+  form.signup-form button {
+    width: 40%;
+  }
+
