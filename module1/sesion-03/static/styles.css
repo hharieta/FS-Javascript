@@ -6,7 +6,7 @@
     /* vertical-align: left; */
     /* max-height: 80px; */
     align-items: center;
-    background-color: #025157;
+    background-color: none;
     
   }
 
@@ -43,7 +43,8 @@ li {
     display: inline;
     width: auto;
     font-size: 16;
-    color: #fefff7;
+    /* color: #fefff7; */
+    color: #46484c;
     margin: 1em;
     font-family: "Noto Sans", Verdana, sans-serif;
 }
